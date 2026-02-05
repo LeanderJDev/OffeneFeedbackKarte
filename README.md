@@ -1,13 +1,11 @@
-# Der Name muss noch final entschieden werden
+# Einleitung
 
 Offene Plattform für ortsbezogene Hinweise und Rückmeldungen
 
-## Motivation
-
-## Zielsetzung
-
 ## Status
+
+Konzeptphase
 
 ## Dokumentation
 
-siehe [docs](./docs/README.md)
+siehe [Dokumentation](./docs/README.md)
